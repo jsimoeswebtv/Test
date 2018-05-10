@@ -21,7 +21,7 @@ namespace MyRunner
         /// <returns>a string representing the state</returns>
         public string Finisher()
         {
-            throw new System.NotImplementedException();
+            return "another";
         }
     }
 }
