@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="0ec641e2-028a-4eca-8bf1-a8684760dca4" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="cc32cb54-fe41-4dec-990c-5cdda4b33221" name="MyRunner">
+      <references>
+        <reference Id="c0706b4f-f9ec-4f06-8c97-a2a37733a603" name="MyRunner">
+          <ArtifactNode Label="MyRunner" Category="CodeSchema_Namespace" Id="(Namespace=MyRunner)" />
+          <ExpandedNode Id="(Namespace=MyRunner)" Label="MyRunner" Category="CodeSchema_Namespace">
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+  </layers>
+</layerModel>
